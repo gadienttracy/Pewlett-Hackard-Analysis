@@ -18,11 +18,11 @@
  
 ![retiring titles](https://user-images.githubusercontent.com/91269696/152905416-37ce9d8b-230e-49f3-bf0b-9f7b60b9e895.PNG)
 
-Senior Engineers and Senior Staff will see the most employees retiring soon.
+*Senior Engineers and Senior Staff will see the most employees retiring soon.*
  ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
  There are 499,495 employees who may consider retiring in the near future and would be perfect for the mentorship program. This is plenty of individuals to consider mentoring others.
 
 ![sqlmentor](https://user-images.githubusercontent.com/91269696/152905311-75f8540e-93a7-480a-a29d-1b1501ed1823.PNG)
 
-SQL Query to find Mentor Eligibility
+*SQL Query to find Mentor Eligibility*
