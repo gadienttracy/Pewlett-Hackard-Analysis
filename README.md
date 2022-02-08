@@ -6,15 +6,15 @@
 
 ## Results:
 
-Markup : * The first result was a list of all individuals who are close to retirement, their employee number, hire date and to date, and their title.
-         * The second result displayed individuals in their current roles rather than any roles they may have held before their current role.
-         * The third CSV result showed the number of individuals, sorted by their title, that would be retiring.  This sheet is most useful for the company to understand where they will need to fill positions in the near future.  
+* The first result was a list of all individuals who are close to retirement, their employee number, hire date and to date, and their title.
+* The second result displayed individuals in their current roles rather than any roles they may have held before their current role.
+* The third CSV result showed the number of individuals, sorted by their title, that would be retiring.  This sheet is most useful for the company to understand where they will need to fill positions in the near future.  
        
-       ![retiring titles](https://user-images.githubusercontent.com/91269696/152904114-28d350ff-136f-4ae4-9748-192e81186429.PNG)
+![retiring titles](https://user-images.githubusercontent.com/91269696/152905103-6fa2fd35-07da-411f-a118-d35a351424a7.PNG)
 
 Senior Engineers and Senior Staff will see the most employees retiring soon.
-        
-        * The final result returned individuals who have a few years of work left before retiring and would be best suited for a mentorship role.
+
+* The final result returned individuals who have a few years of work left before retiring and would be best suited for a mentorship role.
 ## Summary: 
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
